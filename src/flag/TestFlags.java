@@ -6,6 +6,7 @@ public class TestFlags {
         FranceFlag franceFlag = new FranceFlag();
         franceFlag.draw();
 
-
+        ArgentinaFlag argentinaFlag = new ArgentinaFlag();
+        argentinaFlag.draw();
     }
 }
