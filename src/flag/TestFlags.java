@@ -8,5 +8,8 @@ public class TestFlags {
 
         ArgentinaFlag argentinaFlag = new ArgentinaFlag();
         argentinaFlag.draw();
+
+        TurkeyFlag turkeyFlag = new TurkeyFlag();
+        turkeyFlag.draw();
     }
 }
